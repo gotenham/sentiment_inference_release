@@ -15,18 +15,20 @@ SETUP STEPS:
 	right-clicking and selecting "Run as administrator", execute the command inside the braces-> {wsl --install}
 2. Download and install docker desktop https://www.docker.com/products/docker-desktop/, you may need to restart your machine after install.
 3. Create a folder somewhere to hold the project files, eg C:\projects\sentimentinference; either download this repo as zip, or clone using git from the
-	command line using this command -> {git clone --recurse-submodules https://github.com/gotenham/sentiment_inference_release.git}
+	command line using this command -> {git clone https://github.com/gotenham/sentiment_inference_release.git}
 3. In this folder you should place the sentimentinference_img.tar image provided seperatly; it should look like this:
 	> sentimentinference_img.tar
 	> api_fondler.exe
 	> a folder named data containing a text file named prompts.txt
 	> a folder named models containing the SequenceClassification model folders you'd like to load
-		NOTE: (if the model folders dont download correctly with everything else, download this one from huggingface (check that the pytorch_model.bin file downloads correctly) 
-		and place it in the models folder: https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
-4. With docker desktop running, open PowerShell or Windows Command Prompt and navigate to the folder containing the project files, eg {cd C:\projects\sentimentinference},
-	with the terminal now inside the folder, execute the command in the braces to import the image to the docker engine-> {docker load -i sentimentinference_img.tar}
-5. Once the image is loaded, in the same terminal run the command in the braces to 
-	spin up the container and mount the /models folder-> {docker run --name sentimentinference_api -p 8000:8000 -d -v %cd%/models:/code/models -e MODEL_NAME=distilroberta-finetuned-financial-news-sentiment-analysis sentimentinference_img}
+		NOTE: download this one from huggingface -> https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,
+		place the folder you've downloaded into the models folder; check that the pytorch_model.bin file downloads correctly as sometimes it gets missed.
+		I've been testing successfully with both soleimanian/financial-roberta-large-sentiment and mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,
+		but i recommend starting with the distil model.
+4. With docker desktop running, open PowerShell or Windows Command Prompt and navigate to the folder you created containing the project files, eg {cd C:\projects\sentimentinference}; 
+	with the terminal now inside the folder where sentimentinference_img.tar is located, execute the command in the braces to import the image to the docker engine-> {docker load -i sentimentinference_img.tar}
+5. Once the image is loaded, in the same terminal run the command in the braces to spin up the container and
+	mount the /models folder-> {docker run --name sentimentinference_api -p 8000:8000 -d -v %cd%/models:/code/models -e MODEL_NAME=distilroberta-finetuned-financial-news-sentiment-analysis sentimentinference_img}
 	NOTE: the container environment variable MODEL_NAME={} determines which model from the models folder will be loaded
 6. In docker desktop you can view the progress of startup by going to 'Containers' and selecting the container 'sentimentinference_api', you should see
 	a log entry for 'Application startup complete' once the api is ready
