@@ -14,7 +14,7 @@ SETUP STEPS:
 1. If you dont have windows subsystem for linux (WSL) installed already, open PowerShell or Windows Command Prompt in administrator mode by 
 	right-clicking and selecting "Run as administrator", execute the command inside the braces-> {wsl --install}
 2. Download and install docker desktop https://www.docker.com/products/docker-desktop/, you may need to restart your machine after install.
-3. Create a folder somewhere to hold the project files, eg C:\projects\sentimentinference; either download this repo as zip, or clone using git from the
+3. Create a folder somewhere to hold the project files, eg C:\projects\sentimentinference; either download this repo, or clone using git from the
 	command line using this command -> {git clone https://github.com/gotenham/sentiment_inference_release.git}
 3. In this folder you should place the sentimentinference_img.tar image provided seperatly; it should look like this:
 	> sentimentinference_img.tar
