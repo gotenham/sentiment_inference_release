@@ -1,0 +1,6 @@
+[submodule "models/distilroberta-finetuned-financial-news-sentiment-analysis"]
+	path = models/distilroberta-finetuned-financial-news-sentiment-analysis
+	url = https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis
+[submodule "models/financial-roberta-large-sentiment"]
+	path = models/financial-roberta-large-sentiment
+	url = https://huggingface.co/soleimanian/financial-roberta-large-sentiment

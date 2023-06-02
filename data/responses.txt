@@ -1,0 +1,203 @@
+Batch	Prompt	Response->
+0	Operating profit totaled EUR 9.4 m  n "!''/\""@#$%^&*();',.<>down from EUR 11.7 mn in 2004	negative: 0.998798	neutral: 0.000669323	positive: 0.000532987	
+0	Stock Market Hits All-Time High as Investors Reap Profits	negative: 0.000451805	neutral: 0.00129122	positive: 0.998257	
+0	Economic Slowdown Triggers Global Sell-Off in Stocks	negative: 0.997786	neutral: 0.000915556	positive: 0.00129861	
+0	Tech Giant Beats Earnings Expectations, Raises Revenue Forecast	negative: 0.000339755	neutral: 0.000182095	positive: 0.999478	
+0	Trade Tensions Escalate, Causing Market Volatility	negative: 0.990238	neutral: 0.00823218	positive: 0.00152979	
+0	Investors Bullish on Renewable Energy Sector's Growth Potential	negative: 0.993353	neutral: 0.00118917	positive: 0.00545774	
+0	Bankruptcy Filing Sends Shockwaves Through Retail Industry	negative: 0.9246	neutral: 0.0741433	positive: 0.0012571	
+0	New Government Policies Boost Real Estate Market	negative: 0.000238178	neutral: 0.00181187	positive: 0.99795	
+0	Cryptocurrency Plunges, Leaving Investors in Panic	negative: 0.964593	neutral: 0.0344167	positive: 0.000990723	
+0	Mergers and Acquisitions Drive Surge in Healthcare Stocks	negative: 0.000230324	neutral: 0.000739692	positive: 0.99903	
+1	Inflation Surges, Raising Concerns About Interest Rates	negative: 0.969934	neutral: 0.0025816	positive: 0.0274844	
+1	Stable GDP Growth Signals Strong Economy	negative: 0.000265116	neutral: 0.000175094	positive: 0.99956	
+1	Global Supply Chain Disruptions Hit Manufacturing Sector	negative: 0.994538	neutral: 0.0046585	positive: 0.000803058	
+1	Fintech Startup Raises Record-Breaking Funding Round	negative: 0.000297725	neutral: 0.00029086	positive: 0.999411	
+1	Currency Devaluation Sparks Financial Crisis in Emerging Market	negative: 0.996978	neutral: 0.00218444	positive: 0.000837494	
+1	Consumer Confidence Soars, Driving Retail Sales	negative: 0.000225005	neutral: 0.000399997	positive: 0.999375	
+1	Bank Scandal Shakes Financial Industry's Reputation	negative: 0.953654	neutral: 0.0442915	positive: 0.00205432	
+1	Investors Optimistic About Potential Vaccine Breakthrough	negative: 0.000471595	neutral: 0.000291364	positive: 0.999237	
+1	Credit Rating Downgrade Sends Shockwaves Through Bond Market	negative: 0.99747	neutral: 0.00174561	positive: 0.000784714	
+1	Positive Earnings Reports Drive Technology Sector Rally	negative: 0.000248819	neutral: 0.000285228	positive: 0.999466	
+2	Sovereign Debt Crisis Puts Pressure on European Markets	negative: 0.997491	neutral: 0.00119279	positive: 0.00131618	
+2	Record Low Unemployment Boosts Consumer Spending	negative: 0.000284663	neutral: 0.000478546	positive: 0.999237	
+2	Bank Interest Rate Hike Squeezes Borrowers	negative: 9.85595e-05	neutral: 0.999486	positive: 0.000415197	
+2	Investor Sentiment Bullish as Stock Market Rebounds	negative: 0.0753563	neutral: 0.00423846	positive: 0.920405	
+2	Energy Sector Slumps Amid Declining Oil Prices	negative: 0.998104	neutral: 0.000857706	positive: 0.00103824	
+2	Infrastructure Investments to Stimulate Economic Growth	negative: 0.000371774	neutral: 0.00608564	positive: 0.993543	
+2	Corporate Scandal Rocks Wall Street, Shares Plummet"	negative: 0.438637	neutral: 0.554933	positive: 0.00643033	
+2	Financial Regulations Provide Stability to Markets	negative: 6.79045e-05	neutral: 0.999832	positive: 0.000100183	
+2	Housing Bubble Fears Raise Concerns in Real Estate Sector	negative: 0.996132	neutral: 0.00203688	positive: 0.0018314	
+2	New Tech Innovations Fuel Start-up Boom	negative: 0.000371412	neutral: 0.00545503	positive: 0.994174	
+3	Market Correction Wipes Out Trillions in Investor Wealth	negative: 0.977458	neutral: 0.0213649	positive: 0.00117683	
+3	Global Economic Recovery Forecasted for Next Year	negative: 0.000374285	neutral: 0.0120569	positive: 0.987569	
+3	Tech IPOs Surge, Attracting Investor Attention	negative: 0.000309279	neutral: 0.000507148	positive: 0.999184	
+3	Retail Giants Expand E-Commerce Operations	negative: 5.83993e-05	neutral: 0.99988	positive: 6.12655e-05	
+3	Central Bank Announces Interest Rate Cut	negative: 0.000653056	neutral: 0.991125	positive: 0.00822178	
+3	Renewable Energy Sector Sees Record Investment Inflows	negative: 0.00055733	neutral: 0.000455688	positive: 0.998987	
+3	Manufacturing Sector Shows Signs of Resurgence	negative: 0.988673	neutral: 0.00733484	positive: 0.00399234	
+3	Cryptocurrency Market Experiences Volatility	negative: 0.848092	neutral: 0.150805	positive: 0.00110311	
+3	Consumer Spending Reaches Pre-Pandemic Levels	negative: 0.000276441	neutral: 0.000805494	positive: 0.998918	
+3	Biotech Firm Makes Breakthrough in Cancer Research	negative: 0.000495367	neutral: 0.863552	positive: 0.135953	
+4	Inflationary Pressures Mount Amid Supply Chain Disruptions	negative: 0.991288	neutral: 0.00775821	positive: 0.000953605	
+4	Banking Industry Adopts Blockchain Technology	negative: 6.93794e-05	neutral: 0.99987	positive: 6.02308e-05	
+4	Emerging Markets Present Investment Opportunities	negative: 9.83136e-05	neutral: 0.99981	positive: 9.14128e-05	
+4	Travel and Tourism Sector Faces Slow Recovery	negative: 0.996232	neutral: 0.00298321	positive: 0.000784578	
+4	Semiconductor Shortage Impacts Automotive Industry	negative: 0.983626	neutral: 0.0156356	positive: 0.000738283	
+4	IPO Market Booms as Companies Go Public	negative: 0.000546487	neutral: 0.786417	positive: 0.213036	
+4	Earnings Season Brings Mixed Results for Financial Sector	negative: 0.000451307	neutral: 0.0122981	positive: 0.987251	
+4	Government Stimulus Package Bolsters Small Businesses	negative: 0.000451023	neutral: 0.0103374	positive: 0.989212	
+4	Trade Negotiations Create Uncertainty for Investors	negative: 0.995487	neutral: 0.00383819	positive: 0.000674803	
+4	Real Estate Market Shows Strong Demand for Housing	negative: 0.000245251	neutral: 0.000210317	positive: 0.999544	
+5	Digital Payments Continue to Gain Popularity	negative: 0.000203769	neutral: 0.000392453	positive: 0.999404	
+5	Infrastructure Spending Boosts Construction Sector	negative: 0.000213249	neutral: 0.000479943	positive: 0.999307	
+5	Big Tech Faces Increased Regulatory Scrutiny	negative: 0.00372839	neutral: 0.00398889	positive: 0.992283	
+5	Healthcare Sector Innovates with Telemedicine Solutions	negative: 4.26491e-05	neutral: 0.999825	positive: 0.000132203	
+5	Global Trade Imbalances Fuel Trade War Concerns	negative: 0.916328	neutral: 0.0817391	positive: 0.00193313	
+5	Energy Companies Transition to Clean Energy Sources	negative: 8.89972e-05	neutral: 0.999803	positive: 0.000107784	
+5	Financial Technology Startups Disrupt Traditional Banking	negative: 0.830135	neutral: 0.168235	positive: 0.00163044	
+5	Consumer Tech Sales Soar during Holiday Season	negative: 0.000389835	neutral: 0.000792128	positive: 0.998818	
+5	Supply Chain Resilience Becomes Top Priority for Businesses	negative: 0.000562508	neutral: 0.69477	positive: 0.304668	
+5	Private Equity Investments Drive Merger Activity	negative: 0.000181939	neutral: 0.978308	positive: 0.0215096	
+6	Economic Stimulus Measures Aim to Boost Economy	negative: 0.000253327	neutral: 0.00038305	positive: 0.999364	
+6	IPO Market Heats Up with Record-Breaking Offerings	negative: 0.000234766	neutral: 0.000223923	positive: 0.999541	
+6	Global Trade Dispute Escalates Amid Tariff Threats	negative: 0.922314	neutral: 0.0763413	positive: 0.00134421	
+6	Tech Stocks Rally on Positive Earnings Reports	negative: 0.000325463	neutral: 0.000345238	positive: 0.999329	
+6	Banking Sector Faces Regulatory Scrutiny	negative: 0.9473	neutral: 0.0519205	positive: 0.000779864	
+6	Renewable Energy Investments Surge in Q3	negative: 0.000267084	neutral: 0.000350999	positive: 0.999382	
+6	Retail Giants Implement Cost-Cutting Measures	negative: 0.00147075	neutral: 0.289666	positive: 0.708863	
+6	Cryptocurrency Market Sees Volatile Swings	negative: 0.767045	neutral: 0.223477	positive: 0.00947732	
+6	Merger Creates Industry Powerhouse in Healthcare	negative: 4.78493e-05	neutral: 0.999851	positive: 0.000101194	
+6	Inflationary Pressure Sparks Interest Rate Speculation	negative: 0.994814	neutral: 0.00188499	positive: 0.00330141	
+7	Economic Recovery Spurs Optimism in Manufacturing	negative: 0.000258123	neutral: 0.000142116	positive: 0.9996	
+7	Fintech Startups Disrupt Traditional Financial Services	negative: 0.497498	neutral: 0.501501	positive: 0.00100092	
+7	Emerging Market Currencies Experience Sharp Decline	negative: 0.99809	neutral: 0.00104079	positive: 0.000869402	
+7	Consumer Confidence Boosts Hospitality Sector	negative: 0.000187971	neutral: 0.000240771	positive: 0.999571	
+7	Banking Stocks Plummet Amidst Loan Defaults	negative: 0.996775	neutral: 0.00223259	positive: 0.000992564	
+7	Tech Giant Unveils Innovative Product Lineup	negative: 0.000325577	neutral: 0.942805	positive: 0.0568696	
+7	Auto Industry Faces Supply Chain Challenges	negative: 0.0109516	neutral: 0.988871	positive: 0.000178034	
+7	Pharmaceutical Stocks Soar on New Drug Approvals	negative: 0.000501101	neutral: 0.000462989	positive: 0.999036	
+7	Bond Yields Surge, Impacting Fixed-Income Investors	negative: 0.000434695	neutral: 0.000626998	positive: 0.998938	
+7	E-commerce Dominates Retail Landscape	negative: 0.000196722	neutral: 0.96038	positive: 0.0394233	
+8	Energy Companies Embrace Sustainability Initiatives	negative: 0.000543565	neutral: 0.0135918	positive: 0.985865	
+8	Real Estate Market Shows Resilience in Post-Pandemic Era	negative: 0.000424361	neutral: 0.0075063	positive: 0.992069	
+8	Central Bank Implements Stimulus Measures	negative: 0.000358477	neutral: 0.0102928	positive: 0.989349	
+8	Cybersecurity Breach Threatens Financial Institutions	negative: 0.534258	neutral: 0.464105	positive: 0.00163776	
+8	Aerospace Industry Grapples with Boeing Crisis	negative: 0.99013	neutral: 0.00900916	positive: 0.000861153	
+8	Stock Market Volatility Sparks Investor Anxiety	negative: 0.994316	neutral: 0.00440395	positive: 0.00128038	
+8	Infrastructure Projects Drive Economic Growth	negative: 0.000248984	neutral: 0.000593521	positive: 0.999158	
+8	Insurance Industry Adapts to Climate Change Risks	negative: 0.00160362	neutral: 0.995939	positive: 0.00245712	
+8	Luxury Retail Sector Bounces Back with Strong Sales	negative: 0.00020146	neutral: 0.000143776	positive: 0.999655	
+8	Semiconductor Shortage Impacts Technology Sector	negative: 0.990179	neutral: 0.00916184	positive: 0.000659123	
+9	Trade Deal Boosts Market Sentiment and Investor Confidence	negative: 0.00025363	neutral: 0.000181457	positive: 0.999565	
+9	Global Trade Imbalances Pose Risks to Economic Stability	negative: 0.99786	neutral: 0.00122416	positive: 0.000915586	
+9	E-commerce Giant Expands into New Markets	negative: 0.000531414	neutral: 0.864009	positive: 0.13546	
+9	Digital Payments Revolutionize Financial Landscape	negative: 0.000171827	neutral: 0.996209	positive: 0.00361886	
+9	Semiconductor Shortage Impacts Tech Industry	negative: 0.991481	neutral: 0.00781251	positive: 0.000706479	
+9	IPO Boom: Tech Startups Drive Market Activity	negative: 0.00055945	neutral: 0.815017	positive: 0.184423	
+9	Central Bank Announces Interest Rate Cut	negative: 0.000653056	neutral: 0.991125	positive: 0.00822178	
+9	Automotive Industry Faces Chip Supply Shortage	negative: 0.986287	neutral: 0.0131078	positive: 0.000605673	
+9	Luxury Retail Sales Surge in High-End Markets	negative: 0.000190841	neutral: 0.000247246	positive: 0.999562	
+9	Housing Market Sees Record Home Price Appreciation	negative: 0.000255645	neutral: 0.00073074	positive: 0.999014	
+10	Renewable Energy Investments Reach New Heights	negative: 0.000167116	neutral: 0.985999	positive: 0.0138334	
+10	Supply Chain Bottlenecks Disrupt Manufacturing Sector	negative: 0.855111	neutral: 0.143849	positive: 0.00103965	
+10	Online Streaming Platforms Compete for Subscriber Growth	negative: 0.000242823	neutral: 0.00112706	positive: 0.99863	
+10	Government Stimulus Boosts Consumer Spending	negative: 0.000247255	neutral: 0.000703197	positive: 0.999049	
+10	Cybersecurity Threats Increase Amid Digital Transformation	negative: 0.00292087	neutral: 0.00531254	positive: 0.991767	
+10	Healthcare Sector Innovations Revolutionize Patient Care	negative: 0.000525757	neutral: 0.0137984	positive: 0.985676	
+10	Cryptocurrency Adoption Gains Momentum Among Retailers	negative: 0.000204055	neutral: 0.000216707	positive: 0.999579	
+10	Global Economic Recovery Faces Uncertain Outlook	negative: 0.996654	neutral: 0.00256524	positive: 0.000780332	
+10	Fintech Startups Disrupt Traditional Banking Services	negative: 0.278327	neutral: 0.720713	positive: 0.000960503	
+10	Volatility Returns to Stock Market Amid Economic Uncertainty	negative: 0.992183	neutral: 0.00411454	positive: 0.00370227	
+11	Travel and Hospitality Industry Struggles with Pandemic Impact	negative: 0.989105	neutral: 0.0101942	positive: 0.000700952	
+11	Financial Institutions Embrace Artificial Intelligence Solutions	negative: 0.000228762	neutral: 0.997454	positive: 0.00231701	
+11	Energy Transition Drives Investments in Renewable Sources	negative: 0.000359315	neutral: 0.00769317	positive: 0.991948	
+11	Merger and Acquisition Activity Heats Up in Telecom Sector	negative: 0.000196718	neutral: 0.000589173	positive: 0.999214	
+11	Inflationary Pressure Mounts Amid Commodity Price Surges	negative: 0.996052	neutral: 0.00180033	positive: 0.00214815	
+11	Remote Work Trend Reshapes Office Real Estate Market	negative: 7.37568e-05	neutral: 0.999867	positive: 5.88184e-05	
+11	Regulatory Changes Affect Banking Industry Profitability	negative: 0.000668353	neutral: 0.999248	positive: 8.33485e-05	
+11	Entertainment Streaming Services Dominate Media Landscape	negative: 7.41613e-05	neutral: 0.999876	positive: 4.97139e-05	
+11	Cyberattacks Target Financial Institutions Worldwide	negative: 0.000605105	neutral: 0.999328	positive: 6.66392e-05	
+11	Automotive Industry Shifts Focus to Electric Vehicles	negative: 0.000531446	neutral: 0.973593	positive: 0.0258753	
+12	Retail Sector Adapts to Changing Consumer Behavior	negative: 0.000768416	neutral: 0.51295	positive: 0.486282	
+12	Stock Market Surges on Positive Economic Data	negative: 0.000214405	neutral: 0.000374572	positive: 0.999411	
+12	Global Trade Tensions Rise Amid Tariff Threats	negative: 0.991617	neutral: 0.00343811	positive: 0.00494458	
+12	Tech Giants Compete for Dominance in Artificial Intelligence Market	negative: 0.000873659	neutral: 0.0506456	positive: 0.948481	
+12	Housing Market Shows Signs of Recovery	negative: 0.000368993	neutral: 0.000560991	positive: 0.99907	
+12	Cryptocurrency Market Experiences Volatility Amid Regulatory Uncertainty	negative: 0.97815	neutral: 0.0204832	positive: 0.00136677	
+12	Renewable Energy Sector Sees Record Investments	negative: 0.000239824	neutral: 0.000379382	positive: 0.999381	
+12	Banking Sector Faces Increased Scrutiny Over Money Laundering Scandals	negative: 0.995621	neutral: 0.00250406	positive: 0.00187499	
+12	Earnings Season Kicks Off with Strong Corporate Profits	negative: 0.000232888	neutral: 0.000332709	positive: 0.999434	
+12	Inflationary Pressures Drive Central Banks to Consider Interest Rate Hikes	negative: 0.947109	neutral: 0.0356408	positive: 0.0172497	
+13	Merger Announcement Creates Industry Powerhouse	negative: 4.94315e-05	neutral: 0.999678	positive: 0.000272974	
+13	Retail Sector Adapts to Changing Consumer Preferences	negative: 0.000744225	neutral: 0.396482	positive: 0.602774	
+13	Bond Yields Fall as Investors Seek Safe-Haven Assets	negative: 0.997644	neutral: 0.00181322	positive: 0.000542383	
+13	Healthcare Industry Innovations Drive Medical Breakthroughs	negative: 0.000359056	neutral: 0.00488044	positive: 0.99476	
+13	Global Economic Slowdown Sparks Recession Fears	negative: 0.99764	neutral: 0.001305	positive: 0.00105505	
+13	Fintech Startups Disrupt Traditional Financial Services	negative: 0.497498	neutral: 0.501501	positive: 0.00100092	
+13	Volatile Oil Prices Impact Energy Sector Profits	negative: 0.977887	neutral: 0.0209714	positive: 0.00114198	
+13	Auto Industry Faces Supply Chain Disruptions	negative: 0.689866	neutral: 0.309443	positive: 0.00069143	
+13	Positive Economic Outlook Boosts Investor Confidence	negative: 0.000274713	neutral: 0.000145953	positive: 0.999579	
+13	Regulatory Changes Create Opportunities in Cannabis Market	negative: 0.000370197	neutral: 0.0262087	positive: 0.973421	
+14	Banking Sector Embraces Digital Transformation	negative: 0.000775217	neutral: 0.440479	positive: 0.558745	
+14	Trade War Escalation Threatens Global Economic Growth	negative: 0.996691	neutral: 0.00145246	positive: 0.0018564	
+14	Technology Stocks Experience Bullish Momentum	negative: 0.996823	neutral: 0.0010943	positive: 0.00208298	
+14	Real Estate Market Sees Surge in Luxury Home Sales	negative: 0.000193925	neutral: 0.000221255	positive: 0.999585	
+14	Market Volatility Increases Amid Geopolitical Uncertainty	negative: 0.505616	neutral: 0.0146109	positive: 0.479773	
+14	Manufacturing Sector Struggles with Trade War Fallout	negative: 0.980036	neutral: 0.0191931	positive: 0.000771257	
+14	Investor Interest Shifts Towards Emerging Markets	negative: 0.885625	neutral: 0.0631498	positive: 0.0512257	
+14	Financial Institutions Explore Blockchain Technology Applications	negative: 7.74628e-05	neutral: 0.999855	positive: 6.73326e-05	
+14	Consumer Spending Rebounds as Disposable Income Rises	negative: 0.00025878	neutral: 0.000600622	positive: 0.999141	
+14	Central Banks Implement Stimulus Measures to Boost Economy	negative: 0.000234512	neutral: 0.00103026	positive: 0.998735	
+15	Retail Industry Adapts to E-commerce Disruption	negative: 0.00134012	neutral: 0.164775	positive: 0.833885	
+15	Stock Market Surges on Positive Earnings Reports	negative: 0.000231099	neutral: 0.000278577	positive: 0.99949	
+15	Global Trade Tensions Escalate, Impacting Stock Prices	negative: 0.99572	neutral: 0.00311343	positive: 0.0011669	
+15	Tech Company Announces Breakthrough Innovation in AI	negative: 0.000809629	neutral: 0.421314	positive: 0.577876	
+15	Economic Recovery Signals Growth in Financial Sector	negative: 0.000262329	neutral: 0.000176268	positive: 0.999561	
+15	Retail Industry Faces Challenges Amid Changing Consumer Behavior	negative: 0.0423643	neutral: 0.956291	positive: 0.00134478	
+15	Renewable Energy Projects Attract Record Investment	negative: 0.000289911	neutral: 0.0183444	positive: 0.981366	
+15	Central Bank Implements New Monetary Policy Measures	negative: 8.56496e-05	neutral: 0.999456	positive: 0.000458129	
+15	Cryptocurrency Market Sees Increased Volatility	negative: 0.993709	neutral: 0.00288267	positive: 0.00340817	
+15	Healthcare Sector Prepares for Major Merger Announcement	negative: 8.12718e-05	neutral: 0.999831	positive: 8.81283e-05	
+16	Inflationary Pressures Mount, Raising Concerns for Investors	negative: 0.995867	neutral: 0.00145888	positive: 0.00267448	
+16	GDP Growth Exceeds Expectations, Boosting Market Confidence	negative: 0.00026036	neutral: 0.000121294	positive: 0.999618	
+16	Supply Chain Disruptions Continue to Impact Manufacturing Sector	negative: 0.990929	neutral: 0.00817571	positive: 0.000895345	
+16	Fintech Startups Disrupt Traditional Banking Services	negative: 0.139884	neutral: 0.859457	positive: 0.000659149	
+16	Emerging Market Currencies Experience Significant Depreciation	negative: 0.00036423	neutral: 0.000271413	positive: 0.999364	
+16	Consumer Spending Reaches New Highs, Driving Retail Sales	negative: 0.000214651	neutral: 0.000280845	positive: 0.999504	
+16	Financial Institution Faces Regulatory Probe over Misconduct	negative: 0.00079798	neutral: 0.999113	positive: 8.9067e-05	
+16	Vaccine Rollout Sparks Optimism in Travel and Hospitality Industries	negative: 0.000223434	neutral: 0.000408372	positive: 0.999368	
+16	Bond Yields Spike, Causing Bond Market Volatility	negative: 0.994088	neutral: 0.00216919	positive: 0.00374286	
+16	Technology Giants Report Record-Breaking Profits	negative: 0.000327181	neutral: 0.000908832	positive: 0.998764	
+17		Error(s) occurred in Batch: Message: Invalid input. Please provide a non-empty string list.; Type: value_error;
+18	Market Correction Triggers Sell-Off, Investor Anxiety Grows	negative: 0.997451	neutral: 0.00085345	positive: 0.00169533	
+18	Global Bank Expands Digital Services to Reach More Customers	negative: 0.000252923	neutral: 0.0109112	positive: 0.988836	
+18	Auto Manufacturer Reports Record-breaking Sales in Q3	negative: 0.000252562	neutral: 0.000861699	positive: 0.998886	
+18	Central Bank Announces Interest Rate Cut to Stimulate Economy	negative: 0.0012654	neutral: 0.0609433	positive: 0.937791	
+18	Tech Company Unveils Groundbreaking AI-powered Investment Platform	negative: 0.000762018	neutral: 0.864071	positive: 0.135167	
+18	Retail Chain Implements Cost-cutting Measures to Boost Profitability	negative: 0.000328752	neutral: 0.000140656	positive: 0.999531	
+18	Renewable Energy Sector Sees Surge in Investments	negative: 0.926347	neutral: 0.0037014	positive: 0.0699513	
+18	Economic Recovery Expected as Trade Relations Improve	negative: 0.00019036	neutral: 0.000163536	positive: 0.999646	
+18	Insurance Company Launches Innovative Coverage for Cybersecurity Risks	negative: 0.000305818	neutral: 0.00434729	positive: 0.995347	
+18	Biotech Firm Makes Breakthrough in Cancer Treatment Research	negative: 0.000648635	neutral: 0.740459	positive: 0.258892	
+19	Airlines Struggle to Recover Amid Rising Fuel Prices	negative: 0.981628	neutral: 0.00405347	positive: 0.0143182	
+19	Blockchain Technology Poised to Revolutionize Supply Chain Management	negative: 0.0007086	neutral: 0.0833068	positive: 0.915985	
+19	Luxury Brand Expands into Emerging Markets for Growth Opportunities	negative: 0.000224245	neutral: 0.00479152	positive: 0.994984	
+19	Banking Industry Embraces Open Banking to Enhance Customer Experience	negative: 0.000242997	neutral: 0.000782996	positive: 0.998974	
+19	Real Estate Market Shows Resilience Despite Economic Challenges	negative: 0.416424	neutral: 0.0255348	positive: 0.558042	
+19	Electric Vehicle Manufacturer Plans Expansion into New Markets	negative: 0.000314308	neutral: 0.894385	positive: 0.105301	
+19	Startup Raises Funding for Development of Sustainable Agriculture Solutions	negative: 0.000243154	neutral: 0.000465941	positive: 0.999291	
+19	Manufacturing Sector Adapts to Industry 4.0 with Automation and Robotics	negative: 0.000610356	neutral: 0.0945552	positive: 0.904834	
+19	Financial Services Company Launches Innovative Digital Payment Platform	negative: 8.97632e-05	neutral: 0.998334	positive: 0.00157592	
+19	Semiconductor Industry Faces Supply Chain Disruptions Amid Chip Shortage	negative: 0.991867	neutral: 0.00754416	positive: 0.000588372	
+20	E-commerce Giant Expands Logistics Network for Faster Deliveries	negative: 0.00024228	neutral: 0.00348939	positive: 0.996268	
+20	Wealth Management Firm Introduces ESG Investing Options for Clients	negative: 5.54461e-05	neutral: 0.999677	positive: 0.000268031	
+20	Food and Beverage Industry Adapts to Changing Consumer Preferences	negative: 0.000217879	neutral: 0.98662	positive: 0.013162	
+20	Pharmaceutical Company Receives FDA Approval for New Drug	negative: 0.000339619	neutral: 0.00341891	positive: 0.996241	
+20	Tech Startup Disrupts Traditional Banking with Mobile Payment Solution	negative: 0.505291	neutral: 0.489968	positive: 0.0047408	
+20	Airlines Face Challenges Amid Rising Concerns Over Climate Change	negative: 0.792685	neutral: 0.205214	positive: 0.00210114	
+20	Investment Firm Launches Fund to Support Clean Energy Projects	negative: 0.00010923	neutral: 0.998149	positive: 0.00174178	
+20	Retailers Embrace Augmented Reality Technology to Enhance Shopping Experience	negative: 0.000265018	neutral: 0.00163374	positive: 0.998101	
+20	Cybersecurity Threats Increase as Digitalization Accelerates	negative: 0.000393533	neutral: 0.00173626	positive: 0.99787	
+20	Automaker Invests in Autonomous Driving Technology for Future Mobility	negative: 8.53348e-05	neutral: 0.999718	positive: 0.000196192	
+21	Hospitality Industry Recovers as Travel Restrictions Ease	negative: 0.955836	neutral: 0.0430944	positive: 0.00106973	
