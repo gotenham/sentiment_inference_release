@@ -9,20 +9,25 @@ data
 ->prompts.txt
 ]
 
+
 SETUP STEPS:
 1. If you dont have windows subsystem for linux (WSL) installed already, open PowerShell or Windows Command Prompt in administrator mode by 
 	right-clicking and selecting "Run as administrator", execute the command inside the braces-> {wsl --install}
 2. Download and install docker desktop https://www.docker.com/products/docker-desktop/, you may need to restart your machine after install.
-3. Place this folder / create a folder somewhere (if not already setup at this location) to hold the project files, eg C:\projects\sentimentinference; in this folder should be:
+3. Create a folder somewhere to hold the project files, eg C:\projects\sentimentinference; either download this repo as zip, or clone using git from the
+	command line using this command -> {git clone --recurse-submodules https://github.com/gotenham/sentiment_inference_release.git}
+3. In this folder you should place the sentimentinference_img.tar image provided seperatly; it should look like this:
 	> sentimentinference_img.tar
 	> api_fondler.exe
 	> a folder named data containing a text file named prompts.txt
 	> a folder named models containing the SequenceClassification model folders you'd like to load
+		NOTE: (if the model folders dont download correctly with everything else, download this one from huggingface (check that the pytorch_model.bin file downloads correctly) 
+		and place it in the models folder: https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
 4. With docker desktop running, open PowerShell or Windows Command Prompt and navigate to the folder containing the project files, eg {cd C:\projects\sentimentinference},
 	with the terminal now inside the folder, execute the command in the braces to import the image to the docker engine-> {docker load -i sentimentinference_img.tar}
 5. Once the image is loaded, in the same terminal run the command in the braces to 
 	spin up the container and mount the /models folder-> {docker run --name sentimentinference_api -p 8000:8000 -d -v %cd%/models:/code/models -e MODEL_NAME=distilroberta-finetuned-financial-news-sentiment-analysis sentimentinference_img}
-	NOTE: the container environment variable MODEL_NAME={} determins which model from the models folder will be loaded
+	NOTE: the container environment variable MODEL_NAME={} determines which model from the models folder will be loaded
 6. In docker desktop you can view the progress of startup by going to 'Containers' and selecting the container 'sentimentinference_api', you should see
 	a log entry for 'Application startup complete' once the api is ready
 
